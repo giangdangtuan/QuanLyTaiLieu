@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "143779227774",
+    "firebase_url": "https://quanlytailieu-b356b-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "quanlytailieu-b356b",
+    "storage_bucket": "quanlytailieu-b356b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:143779227774:android:18ed39a89b4f0f55a6102f",
+        "android_client_info": {
+          "package_name": "com.abc.project_quanlytailieu"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhzdYP5XmotaMWQZF8O3P2d70Zqwwm1PQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
